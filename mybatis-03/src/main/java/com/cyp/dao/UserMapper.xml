@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cyp.dao.UserMapper">
+
+    <resultMap id="UserMap" type="User">
+<!--    colum表示数据库中的字段，propert表示实体类的属性-->
+        <result column="id" property="id"/>
+        <result column="name" property="name"/>
+        <result column="pwd" property="password"/>
+    </resultMap>
+
+    <select id="getUserById" parameterType="int" resultMap="UserMap">
+      select * from user where id = #{id}
+    </select>
+
+<!--    分页实现查询-->
+    <select id="getUserByLimit"  parameterType="map" resultMap="UserMap">
+        select  * from user limit #{startIndex},#{pageSize};
+    </select>
+</mapper>

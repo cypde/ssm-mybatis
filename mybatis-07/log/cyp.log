@@ -1,0 +1,289 @@
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1710265848.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@65f095f8]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id,title,author,creat_time,views) values (?,?.?,?,?) 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 2e3040ae034c45238a49c2b577787326(String), Mybatis如此简单(String), 狂神说(String), 2021-03-12 13:53:46.079(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1710265848.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@65f095f8]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 870b20a9fba94cc99b039ad8cc57e2ff(String), Mybatis如此简单(String), 狂神说(String), 2021-03-12 13:55:22.358(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 1e019e7087084c23a2493b39b9ca8937(String), Java如此简单(String), 狂神说(String), 2021-03-12 13:55:22.358(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 95f62ffa080f442ca70f7b42890f984f(String), Spring如此简单(String), 狂神说(String), 2021-03-12 13:55:22.358(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: fb4c7efc34e34175941729c961c7c13c(String), 微服务如此简单(String), 狂神说(String), 2021-03-12 13:55:22.358(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@65f095f8]
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@65f095f8]
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@65f095f8]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1710265848 to pool.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 s
+[DEBUG][21-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.cyp.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1926096844.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@72cde7cc]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: b60865e4d4844db5a92c44d5185ff9b7(String), Mybatis如此简单(String), 狂神说(String), 2021-03-12 14:00:06.121(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: b399329285dd4c1684f7ae87bfd092b1(String), Java如此简单(String), 狂神说(String), 2021-03-12 14:00:06.121(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 40c46d9f302348ab95cf3613c9dbd1f8(String), Spring如此简单(String), 狂神说(String), 2021-03-12 14:00:06.121(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 7480fe1157c0419ea470988065d255ab(String), 微服务如此简单(String), 狂神说(String), 2021-03-12 14:00:06.121(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@72cde7cc]
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@72cde7cc]
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@72cde7cc]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1926096844 to pool.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 s
+[DEBUG][21-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.cyp.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 726181440.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2b48a640]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from blog where 1=1 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==> Parameters: 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]<==      Total: 4
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 671471369.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2805d709]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 66aedf6b887840988a828ed0ecc43d89(String), Mybatis如此简单(String), 狂神说(String), 2021-03-12 14:12:24.62(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 342900abf1cc49b0b657f2b91c926640(String), Java如此简单(String), 狂神说(String), 2021-03-12 14:12:24.62(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 3a829d33ba84467a8dc936e0bc09a6b8(String), Spring如此简单(String), 狂神说(String), 2021-03-12 14:12:24.62(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 9097a92977c948289b7c86b3c699ca2e(String), 微服务如此简单(String), 狂神说(String), 2021-03-12 14:12:24.62(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2805d709]
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2805d709]
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2805d709]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 671471369 to pool.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 s
+[DEBUG][21-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.cyp.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 726181440.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2b48a640]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from blog where 1=1 and title = ? 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==> Parameters: Java如此简单(String)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]<==      Total: 2
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 671471369.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2805d709]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 1a9b03c8e74f4292b0a0d098e86672b9(String), Mybatis如此简单(String), 狂神说(String), 2021-03-12 14:13:30.253(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 3dd5911a014642cea0f4d4be978e55cd(String), Java如此简单(String), 狂神说(String), 2021-03-12 14:13:30.253(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 8b5ca89d14c542449db431068d47d81c(String), Spring如此简单(String), 狂神说(String), 2021-03-12 14:13:30.253(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==>  Preparing: insert into blog (id, title, author, create_time, views) values (?,?,?,?,?); 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]==> Parameters: 6bedcfa557cd447c80d33b3dc02cbe6c(String), 微服务如此简单(String), 狂神说(String), 2021-03-12 14:13:30.253(Timestamp), 9999(Integer)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2805d709]
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2805d709]
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2805d709]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 671471369 to pool.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 s
+[DEBUG][21-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.cyp.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1270038388.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4bb33f74]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from blog where 1=1 and title = ? and author = ? 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==> Parameters: Java如此简单(String), 狂神说(String)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]<==      Total: 3
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 s
+[DEBUG][21-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.cyp.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1973233403.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@759d26fb]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from blog where 1=1 and author = ? 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==> Parameters: 狂神说(String)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]<==      Total: 12
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 s
+[DEBUG][21-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.cyp.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 282265585.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@10d307f1]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from blog where 1=1 and title = ? 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==> Parameters: Java如此简单(String)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]<==      Total: 3
+[DEBUG][21-03-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-03-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-03-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Study2/ideatest/ssmtest/mybatis/mybatis-07/target/classes/com/cyp/pojo/Blog.class
+[DEBUG][21-03-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 s
+[DEBUG][21-03-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.cyp.pojo.Blog matches criteria [is assignable to Object]
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-03-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 282265585.
+[DEBUG][21-03-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@10d307f1]
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==>  Preparing: select * from blog where 1=1 and title = ? 
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]==> Parameters: Java如此简单(String)
+[DEBUG][21-03-12][com.cyp.dao.BlogMapper.queryBlogIF]<==      Total: 3
